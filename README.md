@@ -1,4 +1,4 @@
-### Hi 👋, I’m TilakGhetiya ![](https://visitor-badge.glitch.me/badge?page_id=TilakGhetiya) I’m TilakGhetiya
+### Hi 👋, I’m TilakGhetiya ![](https://visitor-badge.glitch.me/badge?page_id=TilakGhetiya)
 
 - 👀 I’m interested in gaming and traveling to new places.
 - 🌱 I’m currently learning Node.JS in depth.
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/@tilakghetiya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/tilakghetiya/">
+<a href="https://www.linkedin.com/in/tilak-ghetiya/">
   <img src="https://img.shields.io/badge/Tilak%20Ghetiya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
