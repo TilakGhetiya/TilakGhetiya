@@ -31,7 +31,7 @@
 
 ## 🤝 Contact Me
 
-&#x2709; &rarr; tilakghetiya215@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tilakghetiya215@gmail.com)](mailto:tilakghetiya215@gmail.com)
 
 <a href="https://twitter.com/tilakghetiya">
   <img src="https://img.shields.io/badge/@tilakghetiya-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
