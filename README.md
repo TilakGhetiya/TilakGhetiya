@@ -29,6 +29,20 @@
 
 <img src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic&logoColor=white">
 
+## ✨ Projects ✨
+
+<b> Some of the projects I have made </b> <br>
+<a href="https://github.com/TilakGhetiya/angular15-JWT-Authentication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TilakGhetiya&repo=angular15-JWT-Authentication&theme=tokyonight)" />
+</a>
+<a href="https://github.com/TilakGhetiya/angular-seo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TilakGhetiya&repo=angular-seo&theme=tokyonight" />
+</a><br><br>
+<a href="https://github.com/TilakGhetiya/angular-ssr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TilakGhetiya&repo=angular-ssr&theme=tokyonight&show_owner" />
+</a> 
+<br><br>
+
 ## 🤝 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tilakghetiya215@gmail.com)](mailto:tilakghetiya215@gmail.com)
